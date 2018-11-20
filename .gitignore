@@ -1,4 +1,4 @@
 node_modules
-helpers/processMessage
+./helpers/processMessage
 npm-debug.log
 bundle.js
